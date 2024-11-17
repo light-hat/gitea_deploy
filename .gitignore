@@ -1,0 +1,5 @@
+gitea_database/
+gitea/
+*.zip
+.env
+.env.db
